@@ -97,4 +97,4 @@ MIT License — free to use and modify.
 
 ---
 
-<p align="center">Built with ❤️ by <a href="https://github.com/YOUR_USERNAME">YOUR_USERNAME</a></p>
+<p align="center">Built with ❤️ by <a href="https://github.com/YOUR_USERNAME">Haruka.exe</a></p>
