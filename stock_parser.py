@@ -27,7 +27,7 @@ from telegram.ext import (
 # ============================================================
 
 # Вставь сюда токен от @BotFather
-BOT_TOKEN = "8650899818:AAH3nm3ne6o4A77aG-vwMHlrx4Uq4ITOgp8"
+BOT_TOKEN = "8650899818:AAFe6xp0cLTcO5HRyYl-Jfn1jJGhAgZQRUA"
 
 # Файл где будут храниться портфолио пользователей
 PORTFOLIO_FILE = "portfolios.json"
